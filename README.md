@@ -1,10 +1,15 @@
 # Would you please visit [7rs.dev](https://7rs.dev)?  
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Cbrnex?label=@Cbrnex)](https://twitter.com/Cbrnex)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClIRrdgFj0md4STixhRqt7Q?label=@Cbrnex)](https://youtube.com/@Cbrnex)
+[![Twitch Status](https://img.shields.io/twitch/status/Cbrnex?logo=twitch&label=@Cbrnex)](https://twitch.tv/Cbrnex)
+[![Discord](https://img.shields.io/discord/746794953203777651?logo=discord&label=Swas%E2%9C%9Dika)](https://discord.gg/GQP8A5kDJV)
+
 ## Stats  
 
 <div>
   <img alt="Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rs&layout=donut&theme=dracula" />
-  <img alt="Stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=7rs&hide_rank=true&show_icons=true&theme=dracula" />
+  <img alt="Stats" height="250px" src="https://awesome-github-stats.azurewebsites.net/user-stats/7rs?cardType=github&theme=dracula&preferLogin=false" />
 </div>
 
 
@@ -19,5 +24,6 @@
 
 ## Used  
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)  
+- [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats)  
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+- [badges/shields](https://github.com/badges/shields)
