@@ -1,9 +1,6 @@
-# Would you please visit [7rs.dev](https://7rs.dev)?  
+[![Static Badge](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&label=%20)](https://7rs.dev/d)
+[![Static Badge](https://img.shields.io/badge/youtube-black?style=for-the-badge&logo=youtube&logoColor=red&label=%20)](https://7rs.dev/yt)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Cbrnex?label=@Cbrnex)](https://twitter.com/Cbrnex)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClIRrdgFj0md4STixhRqt7Q?label=@Cbrnex)](https://youtube.com/@Cbrnex)
-[![Twitch Status](https://img.shields.io/twitch/status/Cbrnex?logo=twitch&label=@Cbrnex)](https://twitch.tv/Cbrnex)
-[![Discord](https://img.shields.io/discord/746794953203777651?logo=discord&label=Swas%E2%9C%9Dika)](https://discord.gg/GQP8A5kDJV)
 
 ## Stats  
 
