@@ -1,4 +1,4 @@
-<h1 align="center">Cbrnex (7rs) / Qlzegg</h1>
+<h1 align="center">Cbrnex (7rs) / Qlze (zRynon) / R4zLn</h1>
 <p align="center">
   I have a lot names. However everyone calls me Manj (卍: Swastika). <br />
   I always use the name "Cbrnex" but, calls me whatever you want.
