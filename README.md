@@ -17,9 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rs&layout=donut" height=200 />
 </p>
 
-<br />  
-
-## Used  
-
+<br />
+<h1 align="center">Used</h1>
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 - [badges/shields](https://github.com/badges/shields)  
