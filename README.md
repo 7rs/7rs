@@ -113,6 +113,6 @@
 
 ## Used  
 
-  [![anuraghazra/github-readme-stats][anuraghazra/github-readme-stats]](https://github.com/anuraghazra/github-readme-stats)
-  [![badges/shields][badges/shields]](https://github.com/badges/shields)
-  [![7rs/branding][7rs/branding]](https://github.com/7rs/branding)
+  [![github-readme-stats][anuraghazra/github-readme-stats]](https://github.com/anuraghazra/github-readme-stats)  
+  [![shields][badges/shields]](https://github.com/badges/shields)  
+  [![branding][7rs/branding]](https://github.com/7rs/branding)  
