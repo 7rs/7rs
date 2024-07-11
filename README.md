@@ -1,118 +1,71 @@
-# Cbrnex  
+[youtube]: https://api.iconify.design/simple-icons:youtube.svg?color=%23FF0000&height=36
+[mastodon]: https://api.iconify.design/simple-icons:mastodon.svg?color=%236364FF&height=36
+[zenn]: https://api.iconify.design/simple-icons:zenn.svg?color=%233EA8FF&height=36
+[bluesky]: https://api.iconify.design/simple-icons:bluesky.svg?color=%230285FF&height=36
+[x]: https://api.iconify.design/simple-icons:x.svg?color=%23000000&height=36
+[github]: https://api.iconify.design/simple-icons:github.svg?color=%23181717&height=36
+[internet-archive]: https://api.iconify.design/simple-icons:internetarchive.svg?color=%23666666&height=36
+[stackshare]: https://api.iconify.design/simple-icons:stackshare.svg?color=%230690FA&height=36
+[patreon]: https://api.iconify.design/simple-icons:patreon.svg?color=%23000000&height=36
+[ko-fi]: https://api.iconify.design/simple-icons:kofi.svg?color=%23FF5E5B&height=36
+[paypal]: https://api.iconify.design/simple-icons:paypal.svg?color=%23003087&height=36
+[discord]: https://api.iconify.design/simple-icons:discord.svg?color=%235865F2&height=36
+[pinterest]: https://api.iconify.design/simple-icons:pinterest.svg?color=%23BD081C&height=36
+[gitlab]: https://api.iconify.design/simple-icons:gitlab.svg?color=%23FC6D26&height=36
+[qiita]: https://api.iconify.design/simple-icons:qiita.svg?color=%2355C500&height=36
+[reddit]: https://api.iconify.design/simple-icons:reddit.svg?color=%23FF4500&height=36
+[google]: https://api.iconify.design/simple-icons:google.svg?color=%234285F4&height=36
+[npm]: https://api.iconify.design/simple-icons:npm.svg?color=%23CB3837&height=36
 
-  I'm an student in Japan. Engineering, TASing, Gaming, etc.  
+<h1 align="center">Cbrnex</h1>  
 
-  <div>
-    <img align="top" height="150" alt="langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rs&layout=compact&theme=dracula&hide_border=true&hide_title=true"/>
-    <img align="top" height="150" alt="status" src="https://github-readme-stats.vercel.app/api?username=7rs&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&hide_title=true"/>
+  <div align="center">
+    <p>A Japanese student. Engineering, TASing, Gaming and etc.</p>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/7rs?cardType=level&theme=dracula&preferLogin=true&Background=00000000&Ring=00000000&Border=00000000&Title=00000000" alt="Stats" />
+    <img src="https://count.getloli.com/get/@7rs?theme=gelbooru" alt="Counter" />
   </div>
 
-[cloudflare]: https://img.shields.io/badge/website-F38020?style=for-the-badge&logo=cloudflare&logoColor=white
+[7rs/pages]: https://github.com/7rs/pages
+[7rs/anysome]: https://github.com/7rs/anysome
+
+## Hosted  
+
+<!--  -->
+- [7rs.dev](https://7rs.dev/)  
+  My website, and a hosting of [7rs/pages][7rs/pages].
+- [anyso.me](https://anyso.me/)  
+  The awesome list made by me, and a hosting of [7rs/anysome][7rs/anysome].
+<!--  -->
 
 ## Links  
 
-  [![Website][cloudflare]](https://7rs.dev/)
+  [![Icon][youtube]](https://youtube.com/@QRZE)
+  [![Icon][mastodon]](https://mastodon.social/@7rs)
+  [![Icon][zenn]](https://zenn.dev/7rs)
+  [![Icon][bluesky]](https://bsky.app/profile/7rs.dev)
+  [![Icon][x]](https://x.com/qlzegg)
+  [![Icon][github]](https://github.com/7rs)
+  [![Icon][internet-archive]](https://archive.org/details/@cbrnex)
+  [![Icon][stackshare]](https://stackshare.io/7rs)
+  [![Icon][patreon]](https://patreon.com/7rs)
+  [![Icon][ko-fi]](https://ko-fi.com/cbrnex)
+  [![Icon][paypal]](https://paypal.me/7rbots)
+  [![Icon][discord]](https://discordapp.com/users/381293338025787392)
+  [![Icon][pinterest]](https://pinterest.com/cbrnex)
+  [![Icon][gitlab]](https://gitlab.com/7rs)
+  [![Icon][qiita]](https://qiita.com/7rs)
+  [![Icon][reddit]](https://www.reddit.com/user/r4zln)
+  [![Icon][google]](https://g.dev/7rs)
+  [![Icon][npm]](https://www.npmjs.com/~7rs)
 
-[youtube]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube
-[zenn]: https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white
-[x]: https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x
-[bluesky]: https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white
-[mastodon]: https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white
-
-### Socials  
-
-  [![YouTube][youtube]](https://youtube.com/@QRZE)
-  [![Zenn][zenn]](https://zenn.dev/7rs)
-  [![X(Twitter)][x]](https://archive.org/details/@cbrnex)
-  [![Bluesky][bluesky]](https://archive.org/details/@cbrnex)
-  [![Mastodon][mastodon]](https://mastodon.social/@7rs)
-
-[github]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github
-[stackshare]: https://img.shields.io/badge/stackshare-0690FA?style=for-the-badge&logo=stackshare&logoColor=white
-[internet-archive]: https://img.shields.io/badge/internet%20archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white
-
-### Uploads  
-
-  [![GitHub][github]](https://github.com/7rs)
-  [![Internet Archive][internet-archive]](https://archive.org/details/@cbrnex)
-  [![StackShare][stackshare]](https://stackshare.io/7rs)
-
-[patreon]: https://img.shields.io/badge/patreon-black?style=for-the-badge&logo=patreon
-[ko-fi]: https://img.shields.io/badge/ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white
-[paypal]: https://img.shields.io/badge/paypal-003087?style=for-the-badge&logo=paypal&logoColor=white
-
-### Donations  
-
-  [![Patreon][patreon]](https://patreon.com/7rs)
-  [![Ko-fi][ko-fi]](https://ko-fi.com/cbrnex)
-  [![PayPal][paypal]](https://paypal.me/7rbots)
-
-[discord]: https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-[organization]: https://img.shields.io/badge/%4074gg-181717?style=for-the-badge&logo=github
-[gh-pages]: https://img.shields.io/badge/website-222222?style=for-the-badge&logo=github
-[reddit]: https://img.shields.io/badge/r%2F74gg-FF4500?style=for-the-badge&logo=reddit&logoColor=white
-
-### Communities  
-
-  [![Website][gh-pages]](https://74gg.github.io/)
-  [![GitHub][organization]](https://github.com/74gg)
-  [![Discord][discord]](https://7rs.dev/discord)
-  [![Zenn][zenn]](https://zenn.dev/p/74)
-  [![Reddit][reddit]](https://reddit.com/r/74gg)
-
-[anuraghazra/github-readme-stats]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula&hide_border=true
-[badges/shields]: https://github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=dracula&hide_border=true
-[7rs/branding]: https://github-readme-stats.vercel.app/api/pin/?username=7rs&repo=branding&theme=dracula&hide_border=true
-
-[python]: https://python.org/
-[line-py]: https://github.com/fadhiilrachman/line-py
-[thrift]: https://thrift.apache.org/
-[messaging-api]: https://developers.line.biz/en/services/messaging-api/
-[fontforge]: https://fontforge.org/docs/scripting/python.html
-[go]: https://go.dev/
-[java]: https://java.com/
-[typescript]: https://typescriptlang.org/
-[astro]: https://astro.build/
-[svelte]: https://svelte.dev/
-[qwik]: https://qwik.dev/
-[stylus]: https://stylus-lang.com/
-[nextjs]: https://nextjs.org/
-[react]: https://ja.react.dev/
-[nextui]: https://nextui.org/
-[tailwindcss]: https://tailwindcss.com/
-[lua]: https://lua.org/
-[sm64lua]: https://github.com/mkdasher/SM64Lua
-[sm64-lua-redux]: https://github.com/Mupen64-Rewrite/SM64LuaRedux
-
-## Learning or have used  
-
-  Understanding and frequency aren't written (no way to know).  
-
-<!--  -->
-- [Python][python]
-  - [line-py][line-py]
-  - [Apache Thrift][thrift]
-  - [Messaging API][messaging-api]
-  - [FontFoege][fontforge]
-- [Go][go]
-  - [Messaging API][messaging-api]
-- [Java][java]
-- [TypeScript][typescript]
-  - [Astro][astro]
-  - [Svelte][svelte]
-  - [Qwik][qwik]
-  - [NextJS][nextjs]
-  - [React][react]
-  - [NextUI][nextui]
-  - [TailwindCSS][tailwindcss]
-- [Stylus][stylus]
-- [Lua][lua]
-  - [sm64lua][sm64lua]
-  - [SM64LuaRedux][sm64-lua-redux]
-<!--  -->
+[iconify]: https://gh-card.dev/repos/iconify/iconify.svg?fullname=
+[moe-counter]: https://gh-card.dev/repos/journey-ad/Moe-Counter.svg?fullname=
+[awesome-github-stats]: https://gh-card.dev/repos/brunobritodev/awesome-github-stats.svg?fullname=
+[gh-card]: https://gh-card.dev/repos/nwtgck/gh-card.svg?fullname=
 
 ## Used  
 
-  [![github-readme-stats][anuraghazra/github-readme-stats]](https://github.com/anuraghazra/github-readme-stats)  
-  [![shields][badges/shields]](https://github.com/badges/shields)  
-  [![branding][7rs/branding]](https://github.com/7rs/branding)  
+  [![Repository][iconify]](https://github.com/iconify/iconify)
+  [![Repository][moe-counter]](https://github.com/journey-ad/Moe-Counter)
+  [![Repository][awesome-github-stats]](https://github.com/brunobritodev/awesome-github-stats)
+  [![Repository][gh-card]](https://github.com/nwtgck/gh-card)
