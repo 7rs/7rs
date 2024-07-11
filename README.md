@@ -21,7 +21,7 @@
 
   <div align="center">
     <p>A Japanese student. Engineering, TASing, Gaming and etc.</p>
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/7rs?cardType=level&theme=dracula&preferLogin=true&Background=00000000&Ring=00000000&Border=00000000&Title=00000000" alt="Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/7rs?cardType=level&theme=dracula&Ring=00000000&Border=00000000&Title=00000000" alt="Stats" />
     <img src="https://count.getloli.com/get/@7rs?theme=gelbooru" alt="Counter" />
   </div>
 
