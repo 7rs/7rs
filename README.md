@@ -57,9 +57,13 @@
     </a>
   </div>
 </div>
+<br />
 <div align="center">
   <img alt="Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/7rs?cardType=level&theme=dracula&Ring=00000000&Border=00000000&Title=00000000" />
-  <br />
+</div>
+<br />
+<div align="center">
+  
   <img alt="Counter" src="https://count.getloli.com/get/@7rs?theme=gelbooru" />
 </div>
 
